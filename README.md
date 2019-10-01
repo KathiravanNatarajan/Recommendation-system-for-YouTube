@@ -1,6 +1,7 @@
 # Recommendation system for YouTube
 
-This project focussed on recommending videos to multiple users to make them laugh. This system also analyzed the preblems of recommending popular videos with maximum view counts and likes. Main focus of this recommendation system is to implement a recommendation system which is personalized to the users based on his previous interests and other relative videos using **collaborative filtering technique**
+This is a techniques for filtering you tube videos based on his likes and interests and from the most popular you tube videos.
+And this uses the techniques **collaborative filtering technique**
 
 
 ### Getting Started
